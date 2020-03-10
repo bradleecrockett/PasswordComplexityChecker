@@ -11,7 +11,7 @@ of the next 5 requirements.
 1) Contains a lowercase character
 2) Contains an uppercase character
 3) Contains a digit: 0 - 9
-4) Contains a special character: !@#$%^&*()-=_+[]\{}|;'<>?,./
+4) Contains a special character: !@#$%^&*()-=_+[]\{}|;':"<>?,./
 5) Is at least 14 characters long
 
 '''
