@@ -14,10 +14,13 @@ of the next 5 requirements.
 5) Is at least 14 characters long
 
 ## Program Requirements
-The program should read in passwords one per line and print **Complex:** or **Not Complex:**, then the password that was evaluated.  
-The last line of input will be a single . period. 
-This can be done with a simple input() command.
-The 
+The program should read in passwords one per line and print **Complex:** or **Not Complex:** followed by the password that was evaluated.  
+
+The last line of input will be a single . period.
+ 
+This can be accomplished with an input() command and a loop.
+
+See the possible sample Input and Outputs below for more details.
 
 ### Sample Inputs and Outputs
 Input 1:
