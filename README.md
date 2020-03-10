@@ -2,6 +2,7 @@
 
 ![password strength](images/password_strength.png)
 
+## Task Description
 Your task is to create a program that tests to determine whether a password is complex or not.
 A password is considered complex if it is **at least 8 characters long** and meets at least 3
 of the next 5 requirements.
